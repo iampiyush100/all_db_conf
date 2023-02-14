@@ -1,0 +1,23 @@
+{
+  "name": "bijnis_utils_node",
+  "version": "1.0.0",
+  "description": "Logistics Service (Bijnis)",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run local"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bunyan": "^1.8.15",
+    "bunyan-format": "^0.2.1",
+    "dnscache": "^1.0.2",
+    "massive": "^6.10.2",
+    "mongoose": "^6.3.6",
+    "mysql2": "^2.3.3",
+    "q": "^1.5.1",
+    "sequelize": "^6.21.2",
+    "sqlite3": "^5.0.8",
+    "uuid": "^8.3.2"
+  }
+}
